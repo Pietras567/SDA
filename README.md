@@ -1,2 +1,0 @@
-# SDA
-Spatial data analysis
